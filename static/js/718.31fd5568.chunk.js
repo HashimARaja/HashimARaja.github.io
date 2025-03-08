@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjasonfyw_github_io=self.webpackChunkjasonfyw_github_io||[]).push([[718],{8718:function(i,s,a){i.exports=a.p+"static/media/linky.da223a731c55232b8c88.md"}}]);

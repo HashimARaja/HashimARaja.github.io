@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjasonfyw_github_io=self.webpackChunkjasonfyw_github_io||[]).push([[211],{9211:function(o,t,a){o.exports=a.p+"static/media/photography-portfolio.696d72ad62bd993a1525.md"}}]);
